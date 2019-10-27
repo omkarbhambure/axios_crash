@@ -2,7 +2,7 @@
 
 ## Instructions:
 
-Copy "start.js" in a blank "main.js". Try to explore the JSONPlaceholder with different implementations.
+Copy "start.js" in a blank "main.js" and follow the material. Try to explore the JSONPlaceholder with different implementations.
 
 ## Resources:
 
